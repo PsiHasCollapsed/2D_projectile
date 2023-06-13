@@ -1,9 +1,11 @@
 # 2D_projectile
 
+
 **Overview**
 
 This is a Python program to simulate and animate the motion of a 2D projectile (without air resistance). Run the '2D_projectile.py' file and
 adjust the input parameters (initial projection velocity, projection angle, initial x and y coordinates) to get a '2d_projectile.gif' output.
+
 
 **Theory and Formulae Used**
 
