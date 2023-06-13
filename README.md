@@ -7,4 +7,10 @@ adjust the input parameters (initial projection velocity, projection angle, init
 
 **Theory and Formulae Used**
 
-\noindent A particle being projected at a velocity $u$ at an angle $\theta$ with the horizontal, moves in a parabolic trajectory under the influence of gravity (in the absence of air resistance). We can break down the velocity $\mathbf{v}$ of the particle at any point in the trajectory into two components along the $X$ and $Y$ axes.
+A particle being projected at a velocity $u$ at an angle $\theta$ with the horizontal, moves in a parabolic trajectory under the influence of gravity (in the absence of air resistance). We can break down the velocity $\mathbf{v}$ of the particle at any point in the trajectory into two components along the $X$ and $Y$ axes.
+
+\begin{align*}
+
+\mathbf{v} = {v_{x}}\hat{i} + {v_{y}}\hat{j}
+
+\end{align*}
