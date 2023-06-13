@@ -7,10 +7,6 @@ adjust the input parameters (initial projection velocity, projection angle, init
 
 **Theory and Formulae Used**
 
-A particle being projected at a velocity $u$ at an angle $\theta$ with the horizontal, moves in a parabolic trajectory under the influence of gravity (in the absence of air resistance). We can break down the velocity $\mathbf{v}$ of the particle at any point in the trajectory into two components along the $X$ and $Y$ axes.
+<img width="517" alt="projectile" src="https://github.com/PsiHasCollapsed/2D_projectile/assets/136156884/d88407c4-7ea4-4ff5-b32f-64e123dd5b30">
 
-$$
-
-\mathbf{v} = {v_{x}}\hat{i} + {v_{y}}\hat{j}
-
-$$
+![projectile motion](https://github.com/PsiHasCollapsed/2D_projectile/assets/136156884/1d5a7f44-db0a-4be4-a3dc-05d686cf8e4e)
